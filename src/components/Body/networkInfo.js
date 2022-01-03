@@ -1,5 +1,9 @@
 const networkInfo = [
   {
+    chainID: 4503599627370476,
+    name: "unknown"
+  },
+  {
     chainID: 1,
     name: "Ethereum Mainnet",
   },
